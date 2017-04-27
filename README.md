@@ -1,2 +1,2 @@
 # threads
-thread
+Threads
